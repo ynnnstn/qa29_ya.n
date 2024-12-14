@@ -13,7 +13,6 @@ public class Student {
         this.lecture=lecture;
     }
 
-
     public String toString() {
         return "Student{" +
                 "firstName='" + firstname + '\'' + ", lastName='" + lastname + '\'' + ", age=" + age + ", lectureCount=" + lecture + '}';
